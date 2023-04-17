@@ -4,6 +4,10 @@ Train an agent to play the **Snake Game** using **Genetic Algorithm**.
 ### Snake Game
 Snake is the common name for a video game concept where the player maneuvers a line that grows in length, with the line itself being a primary obstacle. As the snake moves forward, it leaves a trail behind, resembling a moving snake. The player loses when the snake runs into the screen border, a trail, another obstacle, or itself. There are food items present on the screen, which keep popping at random places. As the snake eats the item, it grows in length, to make the game progressively difficult.
 
+### How to Run the Project
+Open the directory containing all the files and just run the following command
+> python main.py
+
 ### Genetic Algorithm
 Genetic Algorithm (GA) is a search-based optimization technique based on the principles of Genetics and Natural Selection. It is frequently used to find optimal or near-optimal solutions to difficult problems which otherwise would take a lifetime to solve. It is frequently used to solve optimization problems, in research, and machine learning.
 
